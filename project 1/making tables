@@ -15,13 +15,13 @@
   <h2>ordered list </h2><!--specifing the header-->
   <ol>
     <li>home </li>
-    <li>about</li>
+    <li>accesories</li>
     <li>iteam</li>
   </ol>
   <h2>unordered list</h2>
   <ul>
     <li>home</li>
-    <li>about</li>
+    <li>accessories</li>
     <li>iteam</li>
   </ul>
   <h2>defination list</h2>
