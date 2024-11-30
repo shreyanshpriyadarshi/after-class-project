@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>adding links </title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1>adding link of </h1><!--Specifing the link -->
+  <p>adding link of <a href="https://www.google.com/"> google </a> </p>
+  <br>
+  <h2>ordered list </h2><!--specifing the header-->
+  <ol>
+    <li>home </li>
+    <li>about</li>
+    <li>iteam</li>
+  </ol>
+  <h2>unordered list</h2>
+  <ul>
+    <li>home</li>
+    <li>about</li>
+    <li>iteam</li>
+  </ul>
+  <h2>defination list</h2>
+  <dl>
+    <dt>home<dd>-> it is the home webpage</dd></dt>
+    <dt>about<dd>->it the details about the home page</dd></dt>
+  </dl>
+  <h2>table</h2>
+  <table border="4" bgcolor="yellow">
+    <tr>
+      <th>class</th>
+      <th>section</th>
+      <th>total students</th>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>C</td>
+      <td>35</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>A</td>
+      <td>56</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>B</td>
+      <td>46</td>
+    </tr>
+  </table>
+</body>
+
+</html>
