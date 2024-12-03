@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+        <title> Mothers Public School</title><!--specifing the title of the page--> 
+    </head><!--specifing the header of the page -->
+    <body>
+    <h1> <strong></strong><i> Mothers Public School</strong></i></h1><br><!--specifing the body and style of the page-->
+   <i>located near unit 1 , bhubneswear</i><br>
+    <i>number of student admission every year is more than 1lakh.</i><br>
+<em>streams offered are : science , commerce and hummanities </em><br>
+<i> education bord is resigested to cbse.</i><br>
+<i><sub>the school is divider into  parts primary , secondary school</sub></i>
+<h2>my school photo</h2>
+<centre>
+    <img src="mothers.jpg.avif" alt="school" width="500" height="500">
+</centre>
+<h2> imporing mothers public school </h2>
+<inframe><iframe width="560" height="315" src="https://www.youtube.com/embed/22GHC2Z1vU0?si=pZIJsPYB4P_Y9LzY"></iframe>
+</body>
+</html>
